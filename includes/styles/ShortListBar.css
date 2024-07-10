@@ -1,0 +1,18 @@
+.ShortListBar{
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 800px;
+    margin: auto;
+    padding-left: 2px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.ShortVideosList{
+    background-color: #AEBDCA;
+    border-radius: 20px;
+    height: 100px;
+    width: 90px;
+    margin: left;
+    display: inline-block;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

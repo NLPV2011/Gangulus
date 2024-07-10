@@ -1,0 +1,23 @@
+.PostBar{
+    border-radius: 20px;
+    height: 30px;
+    width: 300px;
+    background-color: #FFFF;
+    border: none;
+    outline: none;
+    padding-left: 10px;
+    color: #000;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.Posting{
+    text-align: center;
+}
+
+.SubmitPost{
+    background-color: #83bef2db;
+    height: 25px;
+    border: none;
+    border-radius: 10px;
+    color: #FFFF
+}
